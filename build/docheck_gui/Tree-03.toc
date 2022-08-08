@@ -1,0 +1,5 @@
+('W:\\01网络安全\\IP工具\\IPcheck\\t\\build\\docheck_gui\\ipy-1.1-py3.10.egg',
+ None,
+ {'*.py', '*.pyd', '*.cp310-win_amd64.pyd', '*.pyc', '*.pyw', 'EGG-INFO'},
+ 'DATA',
+ [])
